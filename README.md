@@ -1,42 +1,81 @@
-# Hi there, I'm Mahesh Kumar! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+RAGAVAN+R+V!;Full+Stack+Developer;App+Developer" alt="Typing Animation" />
+</h1>
 
-Welcome to my GitHub profile!  
-I'm passionate about building, learning, and sharing through code.
+<h3 align="center">
+  🚀 Full Stack Developer | Building Scalable Web & Mobile Applications 💻
+</h3>
 
-## 🚀 About Me
+---
 
-- 🌱 I’m always exploring new technologies and frameworks
-- 💡 I enjoy solving complex problems and collaborating with others
-- 📫 How to reach me:  
-  <!-- Add your email or social links here -->
-- ⚡ Fun fact:  
-  <!-- Share a fun fact about yourself! -->
+## About Me  
+I’m a Full Stack Developer driven by building high-performing, scalable solutions across web and mobile. I thrive in crafting robust backends, seamless frontends, and delightfully simple user experiences.
 
-## 🛠️ Skills & Tools
+**🔹 Languages & Frameworks:**  
+JavaScript, Python, Java • React, Next.js, Node.js, Express  
+**🔹 Databases:** MongoDB, MySQL, PostgreSQL  
+**🔹 Tools & DevOps:** Git, GitHub, Docker, Kubernetes, GitHub Actions, Jenkins  
+**🔹 Cloud Platforms:** AWS, GCP • **Hosting:** Vercel, Netlify, Heroku
 
-<!-- List your top skills, languages, and tools -->
-- Programming: `Java` | `JavaScript` | `C++`
-- Frameworks: `React` | `Node.js`
-- Other: `Git` | `Docker`
+Currently focused on:  
+- 💡 Backend systems with Node.js/Express and RESTful APIs  
+- 🎨 Powerful frontends using React & Next.js  
+- 🔐 Authentication, authorization & API security  
+- 📦 Dockerizing apps and orchestrating with Kubernetes
 
-## 🔥 My GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahesh1610&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh1610&layout=compact&theme=radical)
+## 🚧 Featured Projects
 
-## 📌 Featured Projects
+### **Full‑Stack eCommerce App**  
+A comprehensive web & mobile store featuring secure authentication, product catalog, cart functionality, and admin dashboards—all deployed on AWS.
 
-<!-- Showcase your best repositories with a short description -->
-- [Awesome-Project](https://github.com/Mahesh1610/Awesome-Project): Brief description of what this project does.
-- [Cool-App](https://github.com/Mahesh1610/Cool-App): One-liner about your app.
+- 🔁 RESTful API backend with Express & MongoDB  
+- 📱 React frontend & React Native mobile app  
+- 🔐 OAuth2 / JWT-based auth flows  
+- 🐳 Dockerized & deployed with Kubernetes on AWS EKS  
+- ⚙️ CI/CD pipelines using GitHub Actions
 
-## 🌐 Let's Connect
+### **Real‑Time Chat Application**  
+A scalable chat platform with WebSocket connectivity, group chats, typing indicators, media uploads, and eslint-enforced code quality.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh1610) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mahesh1610)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=github&logoColor=white)](https://mahesh1610.github.io/)
+- 💬 Real-time messaging powered by Socket.io  
+- 🗃️ MongoDB for chat and user data storage  
+- 🎨 Stylish UI with Material‑UI components
 
-<!--
-**Mahesh1610/Mahesh1610** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+---
+
+## 🧠 Technical Focus
+
+- **📡 Authentication & Security:** JWT, OAuth, secure password handling  
+- **⚙️ API Design:** RESTful principles, API versioning, Swagger docs  
+- **📦 Containerization:** Docker builds, Kubernetes clusters, Helm charts  
+- **☁️ Serverless Architectures:** AWS Lambda, API Gateway integrations  
+- **🧹 Testing & Code Quality:** Jest, Mocha, ESLint, Prettier  
+
+---
+
+## ⚙️ Current Endeavors
+
+- **🧩 Modular Microservices:** Building decoupled Node.js services  
+- **🔄 Auth Framework:** A reusable auth microservice for multiple apps  
+- **🌱 Exploring:** Redis caching strategies & Kubernetes operators
+
+---
+
+## 📬 Connect & Collaborate
+
+- **LinkedIn:** [Ragavan R V](https://www.linkedin.com/in/ragavan-r-v-33a0b826a/)  
+- **Twitter:** [@ragav1102](https://twitter.com/ragav1102)  
+- **Blog:** [ragav1102.dev](https://ragav1102.dev)  
+- **Email:** maheshsm2916@gmail.com
+
+---
+
+## ☕
+
+**Fun Fact:** I’m a coffee aficionado—can’t code without a strong brew by my side!
+
+---
+
+**Let’s Build Something Awesome Together! 🚀**
